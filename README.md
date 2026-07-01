@@ -14,8 +14,7 @@
 
 - 🚀 **Technical PM** with 3+ years of experience who architects and ships AI-powered automation systems end-to-end — not just specs, actual production code
 - 🤖 Built a full **text-to-SQL analytics platform** (Gemini Flash + sqlglot) letting non-technical users query a 92-table MySQL CRM in plain English
-- ✍️ I write **[Beyond Product](https://www.linkedin.com/newsletters/beyond-product-7363879095832645632/)** — a newsletter on AI product strategy and unit economics (500+ subscribers)
-- 🏢 Co-run **BlackStack Automation**, building OCR & voice automation systems for US finance clients
+- ✍️ I write **[Beyond Product](https://www.linkedin.com/newsletters/beyond-product-7363879095832645632/)** — a newsletter on AI product management(500+ subscribers)
 
 ---
 
