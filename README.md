@@ -14,7 +14,7 @@
 
 - 🚀 **Technical PM** with 3+ years of experience who architects and ships AI-powered automation systems end-to-end — not just specs, actual production code
 - 🤖 Built a full **text-to-SQL analytics platform** (Gemini Flash + sqlglot) letting non-technical users query a 92-table MySQL CRM in plain English
-- ✍️ I write **[Beyond Product](https://www.linkedin.com/newsletters/beyond-product-7363879095832645632/)** — a newsletter on AI product management(500+ subscribers)
+- ✍️ I write **[Beyond Product](https://www.linkedin.com/newsletters/beyond-product-736387909583264632/)** — a newsletter on AI product management(500+ subscribers)
 
 ---
 
@@ -36,12 +36,31 @@
 
 ---
 
+## 🚀 Featured Work
+
+| Project | Outcome | Stack |
+|---|---|---|
+| Text-to-SQL Analytics Platform | Let non-technical users query a 92-table MySQL CRM in plain English using Gemini Flash + sqlglot | Python, Flask, MySQL, Gemini |
+| Merchandising Lead-Gen Dashboard | Apify-powered scraper identifying brands (via job postings, e-commerce listings, funding data) suited for offline pharmacy channel expansion | Python, Flask, Apify |
+| Financial Document Intelligence | Gemini 2.5 Flash pipeline extracting and validating distributor statement PDFs with Python-only arithmetic validation | Python, Gemini 2.5 Flash, Streamlit |
+| Field Merchandising Expansion | Led on-ground Display Income rollout across 5 cities (Hyderabad, Mumbai, Pune, Bangalore, Delhi) covering thousands of chemist outlets | Field Ops, GTM |
+
+---
+
+## 📊 Impact & Reach
+
+![Newsletter Subscribers](https://img.shields.io/badge/Newsletter_Subscribers-500%2B-blue?style=for-the-badge)
+![Cities Covered](https://img.shields.io/badge/Cities_Covered-5-green?style=for-the-badge)
+![CRM Tables Queryable via NL](https://img.shields.io/badge/CRM_Tables_Queryable_via_NL-92-orange?style=for-the-badge)
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himmalaydevulapalli)
-[![Newsletter](https://img.shields.io/badge/Beyond_Product_Newsletter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/beyond-product-7363879095832645632/)
+[![Newsletter](https://img.shields.io/badge/Beyond_Product_Newsletter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/beyond-product-736387909583264632/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.himmalaydevulapalli.info)
 
 </div>
