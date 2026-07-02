@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&width=600&lines=Hi+there%2C+I'm+Rishi+%F0%9F%91%8B;Product+Manager;I+build+what+I+design;Technical+PM" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&width=600&lines=Hi+there%2C+I'm+Himmalay+%F0%9F%91%8B;Product+Manager;I+build+what+I+design;Technical+PM" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badghe&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -33,6 +33,23 @@
 ![Twilio](https://img.shields.io/badge/Twilio%2FTelnyx-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 
 </div>
+
+## 📊 Product Stack
+
+<div align="center">
+
+![Product Strategy](https://img.shields.io/badge/Product_Strategy-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Roadmapping](https://img.shields.io/badge/Roadmapping-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GTM Strategy](https://img.shields.io/badge/GTM_Strategy-FF6900?style=for-the-badge&logo=salesforce&logoColor=white)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-6B48FF?style=for-the-badge&logo=googleslides&logoColor=white)
+![Prioritization (RICE/KANO)](https://img.shields.io/badge/Prioritization_(RICE%2FKANO)-E44C65?style=for-the-badge&logo=airbnb&logoColor=white)
+![User Research](https://img.shields.io/badge/User_Research-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Data-Driven Decisioning](https://img.shields.io/badge/Data--Driven_Decisioning-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
 
 ---
 
